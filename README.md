@@ -4,3 +4,4 @@
 - 🍔 Cesar's Snack Shack opened it's doors in October 👻 of 2021. The Shack specializes in serving up a fusion of popular Mexican-American Snacks such as Agua de Mazapan, Birria Tacos, Cheesesteaks, Hot Cheetos Cheesesticks, & more!
 - 😃 Eager to learn everything I can while pursuing My B.S. in G.I.T. so that it can be applied to helping build our restarant brand. We are super excited to be able to utilize these tools to build our website, design flyers, re-branding, & so much more!
 - ⚡ Fun fact: We have two beautiful kiddos with one on the way, due this semester in Oct.!
+![Alt text about me](Shack Buiding.webp)
