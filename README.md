@@ -5,5 +5,5 @@
 - 😃 Eager to learn everything I can while pursuing My B.S. in G.I.T. so that it can be applied to helping build our restarant brand. We are super excited to be able to utilize these tools to build our website, design flyers, re-branding, & so much more!
 - ⚡ Fun fact: We have two beautiful kiddos with one on the way, due this semester in Oct.!
 - Check out our menu below! 👇
-- ![This is me] (https://github.com/jazzyroses10/jazzyroses10/blob/main/Menu_SnackShack_screen1.jpg)
+- ![This is me](https://github.com/jazzyroses10/jazzyroses10/blob/main/Menu_SnackShack_screen1.jpg)
 - 
